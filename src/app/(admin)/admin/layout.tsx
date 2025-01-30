@@ -4,7 +4,7 @@ import { redirect } from "next/navigation";
 import { currentUser } from "@clerk/nextjs";
 
 export const metadata = {
-  title: "Admin | House Of Kimani Store",
+  title: "Admin | Kemal Store",
   description: `Admin for e-ecommerce, selling products, and new productivity`,
 };
 
